@@ -1,1 +1,3 @@
-# Emotion-Recognition-through-Computer-Vision-and-Deep-Learning
+In this project we have created a system that can recognize human emotion. Facial expressions are one of the most natural and immediate way for a human to convey their feelings or emotions. We created an intelligent system capable of emotion recognition trough facial expressions. A sophisticated well-tuned neural network architecture is customized, trained, and subjected to classification tasks, after which the network is further optimized. The applicability of the final model is portrayed in an application that has a GUI that offers the options of instantaneous emotion analysis be it live or saved image of the user.
+
+Technologies Used: Python; Raspberry Pi; Android programming; Google Firebase
